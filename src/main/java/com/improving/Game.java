@@ -49,7 +49,7 @@ public class Game {
 
             System.out.println();
             grid.displayGrid(map);
-            System.out.println();
+            System.out.println("\nRemaining: "+ guessCommand.remaining());
             System.out.println("Enter your x coordinate");
             System.out.print("> ");
             yCord = scanner.nextInt();
@@ -57,7 +57,7 @@ public class Game {
             System.out.print("> ");
             xCord = scanner.nextInt();
             map[xCord][yCord] = guessCommand.shoot(map, xCord, yCord);
-            System.out.println("Remaining: "+ guessCommand.remaining());
+
             if (guessCommand.remaining() == 0) {
                 System.out.print("\nYou win!");
                 break;

@@ -2,26 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d268b34c-8555-4e87-a65f-cfa136854d7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Battleship.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/improving/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/improving/Grid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/improving/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/improving/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/improving/SpringConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/improving/commands/GuessCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/Battleship.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/improving/Game.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/improving/Grid.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/improving/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/improving/Ship.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/improving/SpringConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/improving/commands/GuessCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/improving/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/improving/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/improving/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/improving/Game.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
