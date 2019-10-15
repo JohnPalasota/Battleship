@@ -59,6 +59,7 @@ public class Game {
             map[xCord][yCord] = guessCommand.shoot(map, xCord, yCord);
 
             if (guessCommand.remaining() == 0) {
+                grid.displayGrid(map);
                 System.out.print("\nYou win!");
                 break;
             }
